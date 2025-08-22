@@ -16,4 +16,4 @@ Develop software that converts 2D blueprints of buildings into 3D walkthrough mo
 - **Blueprint Input:** User uploads 2D plans and building parameters.
 - **3D Conversion:** The software processes input and creates a 3D walkthrough.
 - **Integration:** Includes offline maps and satellite imagery.
-- **Output:** Provides a fully interactive 3D model for briefings.
+- **Output:** Provides a fully interactive 3D model for briefings. 
