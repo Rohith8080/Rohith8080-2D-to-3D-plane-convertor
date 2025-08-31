@@ -11,7 +11,7 @@ Develop software that converts 2D blueprints of buildings into 3D walkthrough mo
 - **Programming languages:** Python  
 - **3D rendering and Walkthrough:** Unity  
 - **Python libraries:** OpenCV, Numpy, Pillow, Pythreejs, Trimesh, Pyglet, Flet  
-
+ 
 ### Methodology:
 - **Blueprint Input:** User uploads 2D plans and building parameters.
 - **3D Conversion:** The software processes input and creates a 3D walkthrough.
